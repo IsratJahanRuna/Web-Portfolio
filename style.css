@@ -45,9 +45,11 @@ section{
     background-color: white;
     height:250px;
     padding: 10px;
+}
+.single-experience p{
     text-align: justify;
     font-size:14px;
-    color:grey
+    color:grey;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
